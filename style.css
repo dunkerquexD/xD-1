@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #000;
+  color: white;
+}
+
+#tentang {
+  padding-top: 6rem;
+}
+
+#project {
+  background-color: #000b76;
+  color: white;
+  padding-top: 6rem;
+}
+
+#contact {
+  background-color: black;
+  padding-top: 6rem;
+}
