@@ -1,4 +1,4 @@
-Hi Aku Athallah Alfareza. Aku dari sidoarjp Indonesia 
+Hi Aku Athallah Alfareza. Aku dari sidoarjo Indonesia 
 .
 disini aku mau cerita sedikit tentang Website progress yang aku buat.
 .
