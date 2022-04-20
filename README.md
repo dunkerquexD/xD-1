@@ -20,6 +20,6 @@ Yah~ sampai sini sajalah sejarahku memulai website ini, semoga kalian yang melih
 .
 .
 Oke, sampai sini saja 
-'
+.
 DANKE~ 
 
